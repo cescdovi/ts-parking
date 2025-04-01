@@ -1,7 +1,7 @@
-# 📊 Proyecto de Series Temporales
+# 📊 Predicción de disponibilidad en parkings de Valencia
 
 - Se plantea una solución escalable para un proyecto de análisis y predicción de disponibilidad de parkings en la ciudad de Valencia.  
-- Se comparan algoritmos de deep learning específicos para tratar datos con estructura recurrente (RNN, LSTM, GRU).  
+- Se comparan algoritmos de deep learning específicos para tratar datos con estructura temporal (RNN, LSTM, GRU).  
 - Se evalúa el rendimiento de cada modelo en su versión básica (vanilla) frente a una versión optimizada mediante ajuste de hiperparámetros con Optuna.  
 - Se definen métricas de evaluación para medir su rendimiento y se incorporan técnicas de explicabilidad para entender las predicciones realizadas por cada modelo.
 
